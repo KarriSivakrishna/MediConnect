@@ -243,12 +243,6 @@ The application uses Next.js Server Actions for API functionality:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Nagasurya07**
-- GitHub: [@Nagasurya07](https://github.com/Nagasurya07)
-- Repository: [Doctors Appointment Platform](https://github.com/Nagasurya07/-Doctors-Appointment-Platform)
-
 ## 🙏 Acknowledgments
 
 - [Next.js](https://nextjs.org/) for the amazing React framework
